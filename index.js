@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer')
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'رابط_سيرفرك_هنا.aternos.me', 
-        port: 25565,
+        host: 'yassercraftsmp.aternos.me', 
+        port: 49062,
         username: 'Yasser_Hero', 
         version: '1.20.1' // غير النسخة حسب سيرفرك
     })
